@@ -7,6 +7,7 @@ Contributions are very welcome!
 Started by https://github.com/shime/creative-commons-media
 
 ## Audio
+* [Adobe Sound Effects](https://offers.adobe.com/en/na/audition/offers/audition_dlc/AdobeAuditionDLCSFX.html) - Includes thousands of uncompressed, royalty-free audio sound effects. These files have been grouped together by type and style into ZIP archives that can be downloaded.
 * [Audio Archive](https://archive.org/details/audio) - Internet Archive's Audio Archive
 * [Bandcamp](https://bandcamp.com/tag/creative-commons) - Creative Commons tag on Bandcamp
 * [ccmixter](http://ccmixter.org/) - Loops and samples that are co-created into tracks.
@@ -16,12 +17,13 @@ Started by https://github.com/shime/creative-commons-media
 * [Incompetech](http://incompetech.com/music/) - Royalty free music from Kevin MacLeod.
 * [Jamendo](http://jamendo.com) - Musical albums. Requires login.
 * [Musopen](https://musopen.org/music/)
+* [Pond5](https://www.pond5.com/free) - Historic media files. Audio, video, images, 3d models. 
 * [Tribe of Noise](http://www.tribeofnoise.com/) - Musical albums. Requires login.
 * [Youtube audio library of Music and sound effects](https://www.youtube.com/audiolibrary/music?nv=1)
 
 ## Graphics
 
-* [AllTheFreeStock](http://allthefreestock.com/) - curated list of free stock images, graphics and videos.
+* [AllTheFreeStock](http://allthefreestock.com/) - curated list of free stock images, graphics and videos. Includes extensive categories: mockups, website templates, colour inspiration, fonts, image tools. 
 * [Altphotos](https://altphotos.com) - Handpicked free (CC0) high-resolution photos added daily.
 * [Art institute of Chicago](https://www.artic.edu/collection?is_public_domain=1) - Public Domain artwork
 * [Color Our Collections](https://library.nyam.org/colorourcollections/) - Libraries, archives, and other cultural institutions around the world sharing free colouring sheets and books for printing, sharing and downloading.
@@ -34,6 +36,7 @@ Started by https://github.com/shime/creative-commons-media
 * [ImageBase](http://imagebase.net/) - Collection of free photos.
 * [Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search#!?searchField=All&showOnly=openAccess&sortBy=Relevance&offset=0&pageSize=0) - Open access artwork
 * [Morgue File](http://www.morguefile.com/archive/) - Photo collection with license to remix.
+* [New Old Stock](https://nos.twnsnd.co/) - Vintage photos from pubilc archives free of known copyright restrictions
 * [New York Public Library Public Domain Collections](https://www.nypl.org/research/collections/digital-collections/public-domain) - images, photos, digital artifacts
 * Open Font Library 
   + [CC-BY](https://fontlibrary.org/en/search?license=CC-BY) 
@@ -48,6 +51,7 @@ Started by https://github.com/shime/creative-commons-media
 * [The Public Domain Review](https://publicdomainreview.org/collections) - High quality PD images, books, films, and audio
 * [unDraw](https://undraw.co/) - Open source illustrations with customisable colours
 * [Unsplash](https://unsplash.com/) - Library of high-resolution images.
+* [VisualHunt](https://visualhunt.com/) - Creative commons image search. Can also search by colour.
 * [WorldImages Kiosk](http://worldimages.sjsu.edu/) - Library of 75,000 images that students can use in their academic projects.
 * [Wylio](http://wylio.com/) - Image search engine with focus on bloggers. Requires login.
 
