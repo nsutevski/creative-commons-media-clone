@@ -66,6 +66,8 @@ Started by https://github.com/shime/creative-commons-media
 * [National Film Board of Canada](https://www.nfb.ca/explore-all-films/)
 * [The Vidcommons Project](https://vidcommons.org/videos/overview) - A PeerTube instance dedicated to media licensed under the Creative Commons and Public Domain.
 * [Pexels stock video](https://www.pexels.com/videos)
+* [Critical Commons](https://criticalcommons.org/) - Critical Commons is a public media archive and fair use advocacy network that supports the transformative reuse of media in scholarly and creative contexts. Critical Commons is also part of the technical and conceptual architecture of the Alliance for Networking Visual Culture and the electronic authoring/publishing platform Scalar.
+* [The Alliance for Networking Visual Culture](https://scalar.me/anvc/about/) - The Alliance aims to close the gap between carefully created digital visual archives and scholarly publication by enabling scholars to work more organically with archival materials, creating interpretive pathways through the materials and enabling new forms of analysis.
 
 ## Open Data
 
@@ -79,6 +81,7 @@ Started by https://github.com/shime/creative-commons-media
 * [DOAJ](https://doaj.org/) - Directory of Open Access Journals
 * [Hybrid Pedagogy: the journal of critical digital pedagogy](https://hybridpedagogy.org/about/)
 * [PLOS](https://www.plos.org/) - Open access research articles
+* [Radical Open Access](http://radicaloa.disruptivemedia.org.uk/) -  a community of scholar-led, not-for-profit presses, journals and other open access projects
 
 ## Open courseware
 
