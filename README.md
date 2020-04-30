@@ -42,6 +42,7 @@ Started by https://github.com/shime/creative-commons-media
   + [CC-BY](https://fontlibrary.org/en/search?license=CC-BY) 
   + [CC-BY-SA](https://fontlibrary.org/en/search?license=CC-BY-SA) - Open Fonts available under several open source licences
 + [OpenPeeps](https://www.openpeeps.com/) - A hand drawn illustration library. Works like building blocks (of vector arms, legs and emotions) that you can mix and match
++ [OpenDoodles](https://generator.opendoodles.com/) - A hand drawn illustration library. Colour palette is customisable in the browser before you download images.
 + [Pexels](https://www.pexels.com/) - High quality free stock photos and videos
 * [Photo Pin](http://photopin.com/) - Milions of photos for bloggers and creatives.
 * [Photos8](http://photos8.com/) - High quality stock photos.
