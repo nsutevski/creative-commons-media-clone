@@ -5,6 +5,7 @@ A curated list of resources that provide media licensed under [Creative Commons 
 Contributions are very welcome!
 
 Started by https://github.com/shime/creative-commons-media
+See also the extensive list by Brad Traversy [Design resources for developers](https://github.com/bradtraversy/design-resources-for-developers)
 
 ## Audio
 * [Adobe Sound Effects](https://offers.adobe.com/en/na/audition/offers/audition_dlc/AdobeAuditionDLCSFX.html) - Includes thousands of uncompressed, royalty-free audio sound effects. These files have been grouped together by type and style into ZIP archives that can be downloaded.
