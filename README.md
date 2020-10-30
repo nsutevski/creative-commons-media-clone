@@ -5,6 +5,7 @@ A curated list of resources that provide media licensed under [Creative Commons 
 Contributions are very welcome!
 
 Started by https://github.com/shime/creative-commons-media
+
 See also the extensive list by Brad Traversy [Design resources for developers](https://github.com/bradtraversy/design-resources-for-developers)
 
 ## Audio
