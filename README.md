@@ -22,6 +22,7 @@ See also the extensive list by Brad Traversy [Design resources for developers](h
 * [Pond5](https://www.pond5.com/free) - Historic media files. Audio, video, images, 3d models. 
 * [Tribe of Noise](http://www.tribeofnoise.com/) - Musical albums. Requires login.
 * [Youtube audio library of Music and sound effects](https://www.youtube.com/audiolibrary/music?nv=1)
+* [Soundcloud's Creative Commons Search](https://soundcloud.com/search/sounds?filter.license=to_share)
 
 ## Graphics
 
@@ -57,6 +58,8 @@ See also the extensive list by Brad Traversy [Design resources for developers](h
 * [VisualHunt](https://visualhunt.com/) - Creative commons image search. Can also search by colour.
 * [WorldImages Kiosk](http://worldimages.sjsu.edu/) - Library of 75,000 images that students can use in their academic projects.
 * [Wylio](http://wylio.com/) - Image search engine with focus on bloggers. Requires login.
+* [Flickr's Creative Commons Search](https://www.flickr.com/creativecommons/)
+* [500px's Creative Commons Search](http://500px.com/creativecommons)
 
 ## Video
 
@@ -71,6 +74,8 @@ See also the extensive list by Brad Traversy [Design resources for developers](h
 * [Pexels stock video](https://www.pexels.com/videos)
 * [Critical Commons](https://criticalcommons.org/) - Critical Commons is a public media archive and fair use advocacy network that supports the transformative reuse of media in scholarly and creative contexts. Critical Commons is also part of the technical and conceptual architecture of the Alliance for Networking Visual Culture and the electronic authoring/publishing platform Scalar.
 * [The Alliance for Networking Visual Culture](https://scalar.me/anvc/about/) - The Alliance aims to close the gap between carefully created digital visual archives and scholarly publication by enabling scholars to work more organically with archival materials, creating interpretive pathways through the materials and enabling new forms of analysis.
+* [Vimeo's Creative Commons Search](http://vimeo.com/creativecommons)
+* [Europeana](http://www.europeana.eu/portal/) - Explore 48,427,731 artworks, artefacts, books, videos and sounds from across Europe. 
 
 ## Open Data
 
@@ -104,14 +109,9 @@ See also the extensive list by Brad Traversy [Design resources for developers](h
 
 ## Misc
 
-* [500px's Creative Commons Search](http://500px.com/creativecommons)
 * [Creative Commons' Search](http://search.creativecommons.org/)
-* [Europeana](http://www.europeana.eu/portal/) - Explore 48,427,731 artworks, artefacts, books, videos and sounds from across Europe. 
-* [Flickr's Creative Commons Search](https://www.flickr.com/creativecommons/)
 * [Internet Archive](https://archive.org) 
 * [Jurispedia](http://jurispedia.org) - The shared law
-* [Soundcloud's Creative Commons Search](https://soundcloud.com/search/sounds?filter.license=to_share)
-* [Vimeo's Creative Commons Search](http://vimeo.com/creativecommons)
 * [Wikimedia Commons](http://commons.wikimedia.org/)
 * [Wikipedia](https://wikipedia.org) - All under CC BY-SA license
 * [XKCD](https://xkcd.com/)
