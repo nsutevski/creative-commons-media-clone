@@ -29,6 +29,7 @@ See also the extensive list by Brad Traversy [Design resources for developers](h
 * [AllTheFreeStock](http://allthefreestock.com/) - curated list of free stock images, graphics and videos. Includes extensive categories: mockups, website templates, colour inspiration, fonts, image tools. 
 * [Altphotos](https://altphotos.com) - Handpicked free (CC0) high-resolution photos added daily.
 * [Art institute of Chicago](https://www.artic.edu/collection?is_public_domain=1) - Public Domain artwork
+* [Blush.design](https://blush.design/) - A great variety of collections includes integration with Figma and Sketch
 * [Color Our Collections](https://library.nyam.org/colorourcollections/) - Libraries, archives, and other cultural institutions around the world sharing free colouring sheets and books for printing, sharing and downloading.
 * [Compfight](http://www.compfight.com/) - Searches Flickr for images suitable for blogs, comps, inspiration and research.
 * [Creativity103](http://creativity103.com/) - Library of free abstract backgrounds, textures and design ideas.
